@@ -1,4 +1,7 @@
 /**  Basic Page CSS **/
+
+@import 'bootstrap_custom.css';
+
 body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: 300;
